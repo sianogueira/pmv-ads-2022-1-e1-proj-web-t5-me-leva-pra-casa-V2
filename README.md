@@ -11,6 +11,7 @@ O projeto ME LEVA PRA CASA tem objetivo a criação de uma plataforma que aprese
 
 ## Integrantes
 
+* Breno Iago Vieira
 * Elizângela Oliveira
 * Guilherme Henrique 
 * Ian Merlo Corrêa
